@@ -37,7 +37,7 @@ export const fullstack = [
     {
       title: "Amitech",
       description: "Next Js",
-      imgUrl: meditest,
+      imgUrl: amitech,
       github:'https://github.com/Denis-Omingo/react-portfolio',
       livedemo:'https://amitech-nextjs-app.vercel.app/',
     },
