@@ -27,13 +27,7 @@ export const fullstack = [
       github:'https://stejostours.co.ke/',
       livedemo: 'https://stejostours.co.ke/',
     },
-    {
-      title: "Meditest",
-      description: "Wordpress",
-      imgUrl: meditest,
-      github:'https://meditestlaboratories.co.za/',
-      livedemo:'https://meditestlaboratories.co.za/',
-    },
+  
     {
       title: "Amitech",
       description: "Next Js",
