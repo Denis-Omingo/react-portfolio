@@ -34,6 +34,13 @@ export const fullstack = [
       github:'https://meditestlaboratories.co.za/',
       livedemo:'https://meditestlaboratories.co.za/',
     },
+    {
+      title: "Amitech",
+      description: "Next Js",
+      imgUrl: meditest,
+      github:'https://github.com/Denis-Omingo/react-portfolio',
+      livedemo:'https://amitech-nextjs-app.vercel.app/',
+    },
 
   ];
 
