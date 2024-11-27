@@ -2,7 +2,7 @@ import estate from "../../assets/img/mern-estate.png";
 import furniture from "../../assets/img/furniture.png";
 import stejos from "../../assets/img/stejos.png";
 import meditest from "../../assets/img/meditest.png";
-
+import amitech from "../../assets/img/amitech.png";
 
 export const fullstack = [
     {
